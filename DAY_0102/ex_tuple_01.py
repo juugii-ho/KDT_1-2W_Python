@@ -35,7 +35,7 @@ print(f'myInfo => {type(myInfo)}, {myInfo}')
 myInfo[0] = 'M'
 print(f'myInfo => {type(myInfo)}, {myInfo}')
 
-myInfo[1].replace('2','3',1)
+myInfo[1]=myInfo[1].replace('2','3',1)
 print(f'myInfo => {type(myInfo)}, {myInfo}')
 
 
@@ -70,3 +70,4 @@ print(a.count(1))
 print(a.count(['A','C']))
 print(a.count('A'))
 print(a.count(['A']))
+

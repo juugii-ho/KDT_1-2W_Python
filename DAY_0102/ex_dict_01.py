@@ -51,3 +51,28 @@ print(f'stdNumsJumsu : {stdNumsJumsu["std03"]}')
 
 # 마지막 원소 지정하는 -1 사용 => -1에 대한 키가 없으면 ERROR.
 #print(f'stdNumsJumsu[-1] => {stdNumsJumsu[-1]}') 인덱스 없음. [-1], [0] 등 불가
+
+
+# ---------------------------------------------------------------
+# 원소/요소 추가 방법 => 변수명[새로운 키] = 데이터
+# ---------------------------------------------------------------
+stdNumsJumsu['std10'] = 99.8
+print(f'stdNumsJumsu : {len(stdNumsJumsu)}개, {type(stdNumsJumsu)}, {stdNumsJumsu}')
+
+# ---------------------------------------------------------------
+# 원소/요소 데이터 변경  => 변수명[기존 키] = 새로운 데이터
+# ---------------------------------------------------------------
+# 학번 10인 학생의 점수 99점으로 변경
+stdNumsJumsu['std10'] = 99
+print(f'stdNumsJumsu : {len(stdNumsJumsu)}개, {type(stdNumsJumsu)}, {stdNumsJumsu}')
+
+# ---------------------------------------------------------------
+# 원소/요소 데이터 tkrwp  => del 변수명[키] 또는 del(변수명[키])
+# ---------------------------------------------------------------
+del stdNumsJumsu['std10']
+print(f'stdNumsJumsu : {len(stdNumsJumsu)}개, {type(stdNumsJumsu)}, {stdNumsJumsu}')
+
+del (stdNumsJumsu['std02'])
+print(f'stdNumsJumsu : {len(stdNumsJumsu)}개, {type(stdNumsJumsu)}, {stdNumsJumsu}')
+
+# 키는 값을 변경할 수 없기 때문에 튜플만 가능, 리스트 불가, 중복일 경우 뒤의 값만 인식
