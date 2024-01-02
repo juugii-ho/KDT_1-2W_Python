@@ -61,3 +61,12 @@ myData3= '82',  #는 tuple로 저장
 print(f'type(myData): {type(myData3)}')
 myData4= ('82',)  #는 tuple로 저장
 print(f'type(myData): {type(myData4)}')
+
+# ----------------------------------------------------------------
+# 리스트 안에 원소/요소 데이터가 몇 개 존재하는 지 카운트를 알려주는 메서드 count(원소데이터)
+a = [1, 2, 1, 1, 5, ['A', 'C'], 1, 1, ['A', 'C']]
+
+print(a.count(1))
+print(a.count(['A','C']))
+print(a.count('A'))
+print(a.count(['A']))
