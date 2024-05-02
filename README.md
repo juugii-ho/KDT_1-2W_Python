@@ -34,5 +34,5 @@
  |DAY0105 | 24.01.05. | function |[velog link]( https://velog.io/@bbalgang/15-Python-8일차 )|
  |DAY0106 | 24.01.06. | 토요일 복습, function, set |[velog link]( https://velog.io/@bbalgang/16-토요일-공부 )|
  |DAY0107 | 24.01.07. | 코딩테스트 30문 |[velog link]( https://velog.io/@bbalgang/17-일요일-공부 )|
- |DAY0108 | 24.01.08. | function, global-local, class, lambda, memory |[v08.elog link]( https://velog.io/@bbalgang/18-파이썬-9일차 )|
+ |DAY0108 | 24.01.08. | function, global-local, class, lambda, memory |[velog link]( https://velog.io/@bbalgang/18-파이썬-9일차 )|
  |DAY0109 | 24.01.09. | 개인프로젝트 |[velog link]( https://velog.io/@bbalgang/19-파이썬-10일차 )|
