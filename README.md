@@ -27,3 +27,11 @@
  ||23.12.26. | 입교식, 개발 환경 설정 | [velog link](https://velog.io/@bbalgang/1226-입교식) |
  |DAY1227| 23.12.27. | print, input, datatype, numberic, |[velog link](https://velog.io/@bbalgang/1227-PYTHON-2일차) |
  |DAY1228| 23.12.28. | numberic, str, typecasting, is |[velog link](https://velog.io/@bbalgang/1228-Python-3일차)|
+ |DAY1229| 23.12.29. | str, range, list | [velog link](https://velog.io/@bbalgang/1229-Python-4일차-yh70ya2o)|
+ |DAY0102| 24.01.02. | list, dict, tuple, set, if | [velog link](https://velog.io/@bbalgang/08fxk7fd)|
+ |DAY0103 | 24.01.03. | if, for, enumerate, packing_unpacking, comprehension |[velog link](https://velog.io/@bbalgang/0104-Python-6일차)|
+ |DAY0104 | 24.01.04. | while, random |[velog link]( https://velog.io/@bbalgang/14-Python-7일차 )|
+ |DAY01 | 24.01. |  |[velog link](  )|
+ |DAY01 | 24.01. |  |[velog link](  )|
+ |DAY01 | 24.01. |  |[velog link](  )|
+ |DAY01 | 24.01. |  |[velog link](  )|
