@@ -11,17 +11,17 @@
  | **폴더** | **날짜** | **내용** | **velog**|
  |:-----:|:-----:|:-----:|:------:|
  ||23.12.26. | 입교식, 개발 환경 설정 | [velog link](https://velog.io/@bbalgang/1226-입교식) |
- |DAY1227| 23.12.27. | print, input, datatype, numberic, |[velog link](https://velog.io/@bbalgang/1227-PYTHON-2일차) |
- |DAY1228| 23.12.28. | numberic, str, typecasting, is |[velog link](https://velog.io/@bbalgang/1228-Python-3일차)|
- |DAY1229| 23.12.29. | str, range, list | [velog link](https://velog.io/@bbalgang/1229-Python-4일차-yh70ya2o)|
- |DAY0102| 24.01.02. | list, dict, tuple, set, if | [velog link](https://velog.io/@bbalgang/08fxk7fd)|
- |DAY0103 | 24.01.03. | if, for, enumerate, packing_unpacking, comprehension |[velog link](https://velog.io/@bbalgang/0104-Python-6일차)|
- |DAY0104 | 24.01.04. | while, random |[velog link]( https://velog.io/@bbalgang/14-Python-7일차 )|
- |DAY0105 | 24.01.05. | function |[velog link]( https://velog.io/@bbalgang/15-Python-8일차 )|
- |DAY0106 | 24.01.06. | 토요일 복습, function, set |[velog link]( https://velog.io/@bbalgang/16-토요일-공부 )|
- |DAY0107 | 24.01.07. | 코딩테스트 30문 |[velog link]( https://velog.io/@bbalgang/17-일요일-공부 )|
- |DAY0108 | 24.01.08. | function, global-local, class, lambda, memory |[velog link]( https://velog.io/@bbalgang/18-파이썬-9일차 )|
- |DAY0109 | 24.01.09. | 개인프로젝트 |[velog link]( https://velog.io/@bbalgang/19-파이썬-10일차 )|
+ |DAY_1227| 23.12.27. | print, input, datatype, numberic, |[velog link](https://velog.io/@bbalgang/1227-PYTHON-2일차) |
+ |DAY_1228| 23.12.28. | numberic, str, typecasting, is |[velog link](https://velog.io/@bbalgang/1228-Python-3일차)|
+ |DAY_1229| 23.12.29. | str, range, list | [velog link](https://velog.io/@bbalgang/1229-Python-4일차-yh70ya2o)|
+ |DAY_0102| 24.01.02. | list, dict, tuple, set, if | [velog link](https://velog.io/@bbalgang/08fxk7fd)|
+ |DAY_0103 | 24.01.03. | if, for, enumerate, packing_unpacking, comprehension |[velog link](https://velog.io/@bbalgang/0104-Python-6일차)|
+ |DAY_0104 | 24.01.04. | while, random |[velog link]( https://velog.io/@bbalgang/14-Python-7일차 )|
+ |DAY_0105 | 24.01.05. | function |[velog link]( https://velog.io/@bbalgang/15-Python-8일차 )|
+ |DAY_0106 | 24.01.06. | 토요일 복습, function, set |[velog link]( https://velog.io/@bbalgang/16-토요일-공부 )|
+ |DAY_0107 | 24.01.07. | 코딩테스트 30문 |[velog link]( https://velog.io/@bbalgang/17-일요일-공부 )|
+ |DAY_0108 | 24.01.08. | function, global-local, class, lambda, memory |[velog link]( https://velog.io/@bbalgang/18-파이썬-9일차 )|
+ |DAY_0109 | 24.01.09. | 개인프로젝트 |[velog link]( https://velog.io/@bbalgang/19-파이썬-10일차 )|
 
 
 <br>
