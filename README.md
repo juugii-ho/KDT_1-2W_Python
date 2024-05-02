@@ -22,8 +22,8 @@
 
 # [교육 내용](https://velog.io/@bbalgang/series/기록)
 
- | **폴더** | **날짜** | **velog**|
- |:-----:|:-----:|:-----:|
+ | **폴더** | **날짜** | **내용** | **velog**|
+ |:-----:|:-----:|:-----:|:------:|
  ||23.12.26. | 입교식, 개발 환경 설정 | [velog link](https://velog.io/@bbalgang/1226-입교식) |
  |DAY1227| 23.12.27. | print, input, datatype, numberic, |[velog link](https://velog.io/@bbalgang/1227-PYTHON-2일차) |
- |DAY1228| 23.12.28. | https://velog.io/@bbalgang/1228-Python-3일차|
+ |DAY1228| 23.12.28. | numberic, str, typecasting, is |[velog link](https://velog.io/@bbalgang/1228-Python-3일차)|
