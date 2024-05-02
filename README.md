@@ -20,8 +20,10 @@
 <br>
 <br>
 
-# 교육 내용
+# [교육 내용](https://velog.io/@bbalgang/series/기록)
 
- | **DAY** | **날짜** | **velog**|
+ | **폴더** | **날짜** | **velog**|
  |:-----:|:-----:|:-----:|
- |DAY1227| 23.12.27 | 파이썬, 아나콘다 개발 환경 설정|https://velog.io/@bbalgang/1226-입교식 |
+ ||23.12.26. | 입교식, 개발 환경 설정 | [velog link](https://velog.io/@bbalgang/1226-입교식) |
+ |DAY1227| 23.12.27. | print, input, datatype, numberic, |[velog link](https://velog.io/@bbalgang/1227-PYTHON-2일차) |
+ |DAY1228| 23.12.28. | https://velog.io/@bbalgang/1228-Python-3일차|
