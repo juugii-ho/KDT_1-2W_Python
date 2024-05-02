@@ -31,7 +31,8 @@
  |DAY0102| 24.01.02. | list, dict, tuple, set, if | [velog link](https://velog.io/@bbalgang/08fxk7fd)|
  |DAY0103 | 24.01.03. | if, for, enumerate, packing_unpacking, comprehension |[velog link](https://velog.io/@bbalgang/0104-Python-6일차)|
  |DAY0104 | 24.01.04. | while, random |[velog link]( https://velog.io/@bbalgang/14-Python-7일차 )|
- |DAY01 | 24.01. |  |[velog link](  )|
- |DAY01 | 24.01. |  |[velog link](  )|
- |DAY01 | 24.01. |  |[velog link](  )|
- |DAY01 | 24.01. |  |[velog link](  )|
+ |DAY0105 | 24.01.05. | function |[velog link]( https://velog.io/@bbalgang/15-Python-8일차 )|
+ |DAY0106 | 24.01.06. | 토요일 복습, function, set |[velog link]( https://velog.io/@bbalgang/16-토요일-공부 )|
+ |DAY0107 | 24.01.07. | 코딩테스트 30문 |[velog link]( https://velog.io/@bbalgang/17-일요일-공부 )|
+ |DAY0108 | 24.01.08. | function, global-local, class, lambda, memory |[v08.elog link]( https://velog.io/@bbalgang/18-파이썬-9일차 )|
+ |DAY0109 | 24.01.09. | 개인프로젝트 |[velog link]( https://velog.io/@bbalgang/19-파이썬-10일차 )|
